@@ -63,5 +63,12 @@ meca-00/
 ```
 
 ---
-
+### 2026-06-07 — Planning & BOM
+Finalized full keyboard spec: compact 60% QWERTY, detachable right-side module (6 macro 
+keys + 0.96" OLED), EVQWGD001 clone side scroll encoder, SK6812 MINI-E RGB LEDs under 
+every switch, Silent White Outemu switches, magnetic pogo pin module connector, frosted 
+acrylic sandwich case via JLCPCB. Created BOM in Excel with all prices and sources. 
+Designed layouts in Keyboard Layout Editor (main 60% + module). Committed all planning 
+files to repo.
+---
 *Built by Ray as part of [Hack Club Keeb](https://keeb.hackclub.com/).*
